@@ -1,0 +1,45 @@
+{
+  "record_metadata": {
+    "version": "1.0",
+    "hospital_id": "RS-UHAMKA-JKT-042",
+    "department": "Pulmonologi & Radiologi Toraks",
+    "timestamp": "2026-11-21T08:30:00Z"
+  },
+  "patient_identity": {
+    "patient_id": "P-2026-09884",
+    "nik": "3175061904990003",
+    "full_name": "Ahmad Firdaus Pratama",
+    "gender": "Laki-laki",
+    "date_of_birth": "1999-04-19",
+    "blood_type": "O+"
+  },
+  "clinical_records": {
+    "exam_type": "Chest X-Ray AP/PA Dual Projection",
+    "physician": "dr. Dimas Febriawan, Sp.Rad(K)",
+    "primary_diagnosis": {
+      "icd10_code": "J18.9",
+      "description": "Pneumonia, unspecified organism with mild bilateral infiltrates"
+    },
+    "vital_signs": {
+      "blood_pressure": "120/80 mmHg",
+      "heart_rate_bpm": 76,
+      "respiratory_rate": 18,
+      "spO2_percent": 98.5,
+      "body_temp_celsius": 36.8
+    },
+    "radiologist_notes": "Cor: Bentuk dan ukuran dalam batas normal, CTR < 50%. Pulmo: Corakan bronkovaskular bertambah di kedua lapangan tengah dan bawah paru. Tampak infiltrat halus perihilar minimal tanpa efusi pleura nyata. Diafragma kanan dan kiri licin, sinus kostofrenikus lancip.",
+    "treatment_plan": [
+      {
+        "medication": "Azithromycin 500mg",
+        "dosage": "1x sehari selama 5 hari",
+        "instructions": "Diminum sesudah makan"
+      },
+      {
+        "medication": "N-Acetylcysteine 600mg effervescent",
+        "dosage": "1x sehari",
+        "instructions": "Dilarutkan dalam 150ml air hangat"
+      }
+    ],
+    "confidentiality_notice": "DOKUMEN MEDIS RAHASIA: Dilindungi UU Perlindungan Data Pribadi (UU PDP No. 27/2022) dan Standar Kerahasiaan Rekam Medis Permenkes No. 24/2022."
+  }
+}
